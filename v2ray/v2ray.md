@@ -102,20 +102,24 @@ Sep 07 11:16:13 bwgcn2 v2ray[25897]: 2020/09/07 11:16:13 [Info] v2ray.com/core/c
 Sep 07 11:16:13 bwgcn2 v2ray[25897]: v2ctl> Read config:  /usr/local/etc/v2ray/config.json
 Sep 07 11:16:13 bwgcn2 v2ray[25897]: 2020/09/07 11:16:13 [Warning] v2ray.com/core: V2Ray 4.27.5 started
 ```
-win端连接：
+### win端连接：
 下载最新版v2rayN，地址为https://github.com/2dust/v2rayN/releases/download/3.23/v2rayN-Core.zip
-1.解压文件后双机打开 v2rayN.exe 文件
-![解压文件后双机打开%20v2rayN.exe%20文件.png](https://raw.githubusercontent.com/307523005/monster/master/v2ray/解压文件后双机打开20v2rayN.exe20文件.png)
-2.新建服务器添加
+#### 1.解压文件后双机打开 v2rayN.exe 文件
+![解压文件后双机打开v2rayN.exe文件.png](https://raw.githubusercontent.com/307523005/monster/master/v2ray/解压文件后双机打开v2rayN.exe文件.png)
+#### 2.新建服务器添加
+
 ![新建服务器添加1.png](https://raw.githubusercontent.com/307523005/monster/master/v2ray/新建服务器添加1.png)
 ![新建服务器添加2.png](https://raw.githubusercontent.com/307523005/monster/master/v2ray/新建服务器添加2.png)
 点击确定
-3.正常显示
+#### 3.正常显示
+
 ![正常显示.png](https://raw.githubusercontent.com/307523005/monster/master/v2ray/正常显示.png)
-4.右击小图标
+#### 4.右击小图标
+
 ![右击小图标.png](https://raw.githubusercontent.com/307523005/monster/master/v2ray/右击小图标.png)
 
-5.选择PAC模式
+#### 5.选择PAC模式
+
 ![选择PAC模式.png](https://raw.githubusercontent.com/307523005/monster/master/v2ray/选择PAC模式.png)
 
-6.浏览器输入 油管网址 http://youtube.com/ 
+#### 6.浏览器输入 油管网址 http://youtube.com/ 
